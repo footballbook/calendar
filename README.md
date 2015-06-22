@@ -19,3 +19,22 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 <!-- start lists -->
 
+
+
+
+## More
+
+### Links
+
+
+
+## Meta
+
+**License**
+
+The football calendar is dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+
+**Questions? Comments?**
+
+Send them along to the [Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport).
+Thanks!
