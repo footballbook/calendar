@@ -35,7 +35,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 <!-- new list -->
 
-- [Women's World Cup](https://github.com/openfootball/world-cup-women)
+- [Women's World Cup](https://github.com/openfootball/women-world-cup)
    - 2019 @ France; ???            (Nr. 8)
    - 2015 @ Canada; Jun/6-Jul/5    (Nr. 7)
    - 2011 @ Germany; Jun/26-Jul/17 (Nr. 6)
