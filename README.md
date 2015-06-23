@@ -17,8 +17,6 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - [North America (CONCACAF)](#north-america-concacaf)
    - [South America (CONMEBOL)](#south-america-conmebol)
 
-<!-- start lists -->
-
 
 ## World (FIFA)
 
@@ -26,6 +24,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
     - 2022 @ Qatar;  Nov/21-Dec/18  (Nr. 22)
     - 2018 @ Russia; Jun/14-Jul/15  (Nr. 21)
     - 2014 @ Brazil; Jun/12-Jul/13  (Nr. 20)
+
+<!-- new list -->
 
 - [Confederations (Confed) Cup](https://github.com/openfootball/confed-cup)
    - 2021 @ Qatar;  ??           (Nr. 11)
@@ -60,7 +60,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
     - 2015 @ United States+Canada; Jul/7-26 (Nr. 23)
     - 2013 @ United States; Jul/7-28 (Nr. 22)
 
-### South America  (CONMEBOL)
+### South America (CONMEBOL)
 
 - [Copa América](https://github.com/openfootball/copa-america)
     - 2019 @ Brazil; ??? (Nr. 46)
