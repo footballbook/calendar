@@ -11,29 +11,31 @@ A collection of awesome football tournaments, cups, etc. from around the world
 
 Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
-- [World / FIFA](#world--fifa)
-- [Europe / UEFA](#europe--uefa)
+- [World (FIFA)](#world-fifa)
+- [Europe (UEFA)](#europe-uefa)
 - [America](#america)
-   - [North America / CONCACAF](#north-america--concacaf)
-   - [South America / CONMEBOL](#south-america--conmebol)
+   - [North America (CONCACAF)](#north-america-concacaf)
+   - [South America (CONMEBOL)](#south-america-conmebol)
 
 <!-- start lists -->
 
 
-# World (FIFA)
+## World (FIFA)
 
 - [World Cup](https://github.com/openfootball/world-cup)
     - 2022 @ Qatar;  Nov/21-Dec/18  (Nr. 22)
     - 2018 @ Russia; Jun/14-Jul/15  (Nr. 21)
     - 2014 @ Brazil; Jun/12-Jul/13  (Nr. 20)
 
-<!-- add confed cup -->
+- [Confederations (Confed) Cup](https://github.com/openfootball/confed-cup)
+   - 2021 @ Qatar;  ??           (Nr. 11)
+   - 2017 @ Russia; Jun/17-Jul/2  (Nr. 10)
+   - 2013 @ Brazil; Jun/15-30     (Nr. 9)
 
-<!-- new list -->
+<!-- 
+  add World Cup Under-21 ??
+-->
 
-- World Cup Under-21 ??
-
-<!-- new list -->
 
 - [Women's World Cup](https://github.com/openfootball/women-world-cup)
    - 2019 @ France; ???            (Nr. 8)
@@ -41,7 +43,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - 2011 @ Germany; Jun/26-Jul/17 (Nr. 6)
 
 
-# Europe (UEFA)
+## Europe (UEFA)
 
 - [European Championship (Euro)](https://github.com/openfootball/euro-cup)
    - 2020 @ 13 Cities - London, Munich,...;   ???  (Nr. 16)
@@ -49,16 +51,16 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - 2012 @ Poland+Ukraine; Jun/8-Jul/1   (Nr. 14)
 
 
-# America
+## America
 
-## North America (CONCACAF)
+### North America (CONCACAF)
 
 - [Gold Cup / Copa de Oro](https://github.com/openfootball/north-america-gold-cup)
     - 2017 @ ???
     - 2015 @ United States+Canada; Jul/7-26 (Nr. 23)
     - 2013 @ United States; Jul/7-28 (Nr. 22)
 
-## South America  (CONMEBOL)
+### South America  (CONMEBOL)
 
 - [Copa América](https://github.com/openfootball/copa-america)
     - 2019 @ Brazil; ??? (Nr. 46)
