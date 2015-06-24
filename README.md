@@ -1,4 +1,4 @@
-# Foolball Calendar
+# Football Calendar
 
 A collection of awesome football tournaments, cups, etc. from around the world
 
@@ -16,6 +16,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [America](#america)
    - [North America (CONCACAF)](#north-america-concacaf)
    - [South America (CONMEBOL)](#south-america-conmebol)
+- [Calendar](#calendar)
+- [Meta](#meta)
 
 
 ## World (FIFA)
@@ -73,6 +75,30 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ## More
 
 ### Links
+
+
+## Calendar
+
+NOTE: A calendar page ([CALENDAR.md](CALENDAR.md)) gets auto-generated from this page listing football tournaments sorted by date (that is, year and month) or better try the "live" version using the [whatson command line tool](https://github.com/textkit/whatson). Type:
+
+~~~
+$ kickoff
+~~~
+
+resulting in:
+
+~~~
+Upcoming Football Tournaments:
+
+  NOW ON 18d    Women's World Cup 2015, Sat-Sun Jun/6-Jul/5 (30d) @ Canada › World (FIFA)
+  NOW ON 13d    Copa América 2015, Thu-Sat Jun/11-Jul/4 (24d) @ Chile › South America (CONMEBOL)
+
+  in 14d    Gold Cup / Copa de Oro 2015, Tue-Sun Jul/7-26 (20d) @ United States+Canada › North America (CONCACAF)
+  in 346d   Copa América 2016, Fri-Sun Jun/3-26 (24d) @ United States › South America (CONMEBOL)
+  in 353d   European Championship (Euro) 2016, Fri-Sun Jun/10-Jul/10 (31d) @ France › Europe (UEFA)
+  in 1087d  World Cup 2018, Thu-Sun Jun/14-Jul/15 (32d) @ Russia › World (FIFA)
+  ...
+~~~
 
 
 
