@@ -1,4 +1,4 @@
-# Football Calendar
+# Football Tournament Calendar (National Teams Edition)
 
 A collection of awesome football tournaments, cups, etc. from around the world
 
