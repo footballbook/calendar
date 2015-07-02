@@ -8,16 +8,15 @@ A collection of awesome football tournaments, cups, etc. from around the world
 
 ---
 
+#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
-Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
-- [World (FIFA)](#world-fifa)
-- [Europe (UEFA)](#europe-uefa)
-- [America](#america)
-   - [North America (CONCACAF)](#north-america-concacaf)
-   - [South America (CONMEBOL)](#south-america-conmebol)
-- [Calendar](#calendar)
-- [Meta](#meta)
+[World (FIFA)](#world-fifa) • 
+[Europe (UEFA)](#europe-uefa) • 
+[North America, Central America and the Caribbean (CONCACAF)](#north-america-concacaf) •  
+[South America (CONMEBOL)](#south-america-conmebol) • 
+[Calendar](#calendar) • 
+[Meta](#meta)
 
 
 ## World (FIFA)
